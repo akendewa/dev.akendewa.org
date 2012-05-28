@@ -1,0 +1,27 @@
+body {
+    position: relative; 
+    background-color: #fff;
+    background-image: url(../img/grid-18px-masked.png);
+    background-repeat: repeat-x;
+    background-position: 0 40px;
+    background-attachment : fixed;
+}
+
+.thumbnails li div {
+    height : 370px;
+}
+
+.navbar-inner .container {
+    padding-top : 20px;
+    padding-bottom : 20px;
+}
+
+.navbar-inner a {
+    font-weight : bold;
+    font-size : 20px;
+}
+
+.navbar-inner .nav {
+    margin-top : 10px;
+    margin-left : 50px;
+}
